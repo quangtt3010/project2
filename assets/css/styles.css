@@ -641,12 +641,10 @@ li {
   padding: 96px 135px 0;
   background: #2e2100;
   overflow-x: hidden;
-  width: 100%;
 }
 
 .footer .row {
   display: flex;
-
   padding-bottom: 38px;
   border-bottom: 1px solid #59554b;
 }
